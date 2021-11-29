@@ -1,4 +1,4 @@
-package AJ02_Permutations_Combinations;
+package AF02_Permutations_Combinations;
 
 import java.io.BufferedReader;
 import java.io.IOException;
